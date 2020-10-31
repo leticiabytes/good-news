@@ -46,7 +46,7 @@ Para clonar e rodar essa aplicação, você precisa [Git](https://git-scm.com) +
 
 No seu terminal:
 
-### Install Front-end
+### Instale Aplicação Front-end
 
 ```bash
 # Clone this repository
