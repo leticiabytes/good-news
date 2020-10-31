@@ -1,0 +1,61 @@
+{
+  "users": [
+    {
+      "token": "JEjLYBOuxJ",
+      "name": "admin",
+      "email": "admin@email.com",
+      "password": "123456",
+      "id": 4
+    }
+  ],
+  "goodnews": [
+    {
+      "id": 0,
+      "author": "G1 Notícias",
+      "tag": "Crianças",
+      "title": "Fazenda nos EUA conecta crianças e animais com deficiência :)",
+      "bodyText": "Uma fazenda em Austin, no Texas, criou uma maneira de abordar autoestima e aceitação entre crianças com deficiência. A propriedade proporciona contato e brincadeiras com animais que precisam de cuidados especiais. Segundo o site do Safe in Austin (A salvo em Austin), a iniciativa começou com uma cadela que ajudou o filho autista de Griner. 'Sempre amamos os animais, mas quando Angel [cadela] se juntou à nossa família, ficou incrivelmente claro como o amor por um animal pode ser literalmente milagroso'. Inicialmente, a família pagava pelos cuidados dos animais, mas à medida que a família crescia, aumentavam as contas. Por conta disso, eles transformaram o Safe in Austin em uma organização sem fins lucrativos em 2018 para que pudessem aceitar doações. As pessoas podem doar valores que vão entre US$ 10 a US$ 100, equivalente a cerca de R$ 56 a R$ 560. Hoje a fazenda conta com mais de 70 animais: cachorros, gatos, tartarugas, vacas, cavalos, coelhos, cabras e diversas espécies de pássaros. Eles recebem carinho, atenção e tratamento completo. Por meio das redes sociais, os administradores do local compartilham as experiências das crianças com os animais e imagens do dia a dia no rancho. Griner afirma que crianças com deficiência encontram conforto e encorajamento ao aprender sobre as necessidades especiais dos animais.",
+      "image": "https://s2.glbimg.com/-yl5Kmwaqd9tbmjEyJm45N9gaoE=/0x48:1440x1043/1000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/o/j/heqEBqRAaBux4vxKw3nA/108233259-1474179922765942-429126229114152851-o.jpg"
+    },
+    {
+      "id": 1,
+      "author": "G1 Notícias",
+      "tag": "Olha que legal",
+      "title": "Enfermeira é contratada e promovida por hospital onde trabalhou como faxineira há dez anos",
+      "bodyText": "Há dez anos, Jaines Andrades trabalhava como faxineira no Baystate Medical, em Springfield, Massachussetts. No final de setembro, ela foi promovida pelo mesmo hospital, mas agora a enfermeira no setor de trauma. Sua história no local começou quando ela trabalhava em uma lanchonete, mas soube da vaga para limpeza no hospital. Segundo Andrades, mesmo sem lidar com pacientes, pareceu uma boa oportunidade para observar o funcionamento de um centro médico e a rotina de atendimento. Há cinco anos, ela finalmente conseguiu ingressar no curso de enfermagem, e teve a chance de ser recontratada como enfermeira iniciante, sendo agora promovida a um cargo onde pode atuar inclusive sem a supervisão direta de um médico. Para comemorar, postou em seu perfil no Facebook seus três crachás do hospital, dos três postos que já ocupou ali, e escreveu: “10 anos de trabalho, mas valeu a pena”. “Espero que minha história possa inspirar pessoas que talvez se sintam desencorajadas por seu passado ou de onde vêm”, disse ela à emissora ABC News. Eu só quero que elas saibam, se eu posso fazer isso, qualquer um também pode”.",
+      "image": "https://s2.glbimg.com/AOFHbyNJ8u6MkZbXjABmJLX2y0Q=/0x0:1700x1065/1008x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/u/f/s7I9ClTdGnF7FkeJLkPQ/jaines.jpg"
+    },
+    {
+      "id": 2,
+      "author": "G1 Notícias",
+      "tag": "Solidariedade",
+      "title": "Grupo doa máscaras em apoio a campanha para arrecadar alimentos",
+      "bodyText": "A SIGVARIS GROUP, empresa suíça no mercado de acessórios de compressão graduada, está apoiando a campanha da rádio Energia 97 FM. A ação vai distribuir kits com máscaras de proteção a quem doar dois quilos de alimentos não perecíveis ou rações para cães e gatos na capital paulista e cidades da região metropolitana de São Paulo. Os promotores da rádio já visitaram diversos pontos das cidades para arrecadar os alimentos e entregar as máscaras. Os mantimentos obtidos são encaminhados a pessoas em situação de vulnerabilidade social. Como parte da ação, a SIGVARIS GROUP está doando kits com duas máscaras feitas com tecido que tem ação antiviral e antibacteriana, capaz de bloquear a contaminação cruzada de bactérias e vírus, como o novo coronavírus. O tecido retém pouca umidade e tem ação que inibe a proliferação de fungos.",
+      "image": "https://img.r7.com/images/mascara-trabalhojpg-26102020225441375?dimensions=660x360"
+    },
+    {
+      "id": 3,
+      "author": "G1 Notícias",
+      "tag": "Amor",
+      "title": "Casal se conhece em hospital e vence câncer junto",
+      "bodyText": "Um casal venceu o câncer junto e está compartilhando sua linda história pra dar esperança a outras pessoas em situações semelhantes. Bryan Casares e Candela Mozzi estavam recebendo tratamento para linfoma, tipo agressivo de câncer, em Fundaleu, em Buenos Aires, na Argentina. Eles se encontraram num grupo de pacientes e bateram um longo papo. Foi então que perceberam que eram os únicos que conversavam o tempo todo. Uma química que não se explica.Três anos depois, agora eles são um casal e os dois venceram juntos o câncer.Bryan disse que quando as pessoas perguntam, “contamos a história toda porque esperamos que possa dar esperança àqueles que lutam com outras condições semelhantes.” O amor vence obstáculos!!!",
+      "image": "https://d281e75zdqqlon.cloudfront.net/wp-content/uploads/2020/10/casal_cancer-696x487.jpg"
+    },
+    {
+      "id": 4,
+      "author": "G1 Notícias",
+      "tag": "Saúde",
+      "title": "Estudante de 14 descobre molécula que pode levar à cura da Covid",
+      "bodyText": "Uma garota de 14 anos, do Texas, EUA, descobriu uma molécula que pode se ligar seletivamente à proteína do novo coronavírus – SARS-CoV-2. Anika Chebrolu fez uma abordagem chamada “método in-silico” para encontrar uma molécula que pode se grudar à proteína do novo coronavírus, impedindo que a infecção se espalhe. A descoberta rendeu a Anika o primeiro lugar no Young Scientist Challenge – Desafio Jovem Cientista 2020 – a principal competição de ciências do ensino médio da América. A ligação e a inibição dessa proteína viral poderiam impedir a entrada do vírus na célula, criando um alvo viável para a droga. “Nos últimos dois dias, eu percebi que houve uma comoção da mídia ao redor do meu projeto, principalmente porque envolve o vírus SARS-CoV-2 e reflete nossas esperanças coletivas de acabar com essa pandemia, e eu, como todas as pessoas, gostaria de voltar à vida normal logo”, disse Anika.",
+      "image": "https://d281e75zdqqlon.cloudfront.net/wp-content/uploads/2020/10/estudante_descoberta-696x487.jpg"
+    },
+    {
+      "author": "admin",
+      "title": "Menino empreendedor faz geleias artesanais e aprende a ganhar dinheiro",
+      "tag": "Good News",
+      "bodyText": " O Thomas tem apenas 10 anos e já está aprendendo a ganhar dinheiro. O menino empreendedor faz geleias artesanais em casa. Ele criou uma marca e está vendendo para vizinhos do condomínio onde mora a família, na Vila Leopoldina, em São Paulo.\n\nE além de preparar as delícias com sabores da culinária francesa, ele tem visão de marketing, com essa idade! O garotinho faz bilhetes personalizados, pra mandar junto com os potes para os clientes.\n\nEle teve a ideia depois de pedir presentes para os pais – como um novo celular – e eles explicaram que “nessa vida, se queremos algo, precisamos batalhar”.\n\nFoi o que Thomas Vinksnaitis Gauthier fez: começou a empreender com apoio da família.\n\n“Além de ser um grande gourmand (comilão), gosto muito de cozinhar e estar com a minha família, por isso este projeto me deixa tão feliz”, diz Thomas no site da Les Petits Plaisirs, a marca criada por eles\n\nO garoto é filho de Benjamin, que é francês, e da Alessandra, brasileira. A gastronomia sempre esteve presente no dia a dia da família, que passa horas na cozinha.\n\n“Meu pai, Benjamin, é francês e quando ele veio morar no Brasil, explorou as belezas deste país como também desvendou todos os seus sabores”, afirma o menino.",
+      "image": "https://d281e75zdqqlon.cloudfront.net/wp-content/uploads/2020/10/menino-geleia-close-2-696x487.jpg",
+      "id": 5
+    }
+  ]
+}
